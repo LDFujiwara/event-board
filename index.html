@@ -13,6 +13,7 @@
     --concerts: #0f3d3e;
     --social: #2c0f52;
     --markets: #123a1c;
+    --races: #4a1010;
   }
 
   * { box-sizing: border-box; }
@@ -233,6 +234,7 @@
       <button class="tab" data-filter="concerts">Concerts</button>
       <button class="tab" data-filter="social">Fairs, Car Meets &amp; Social</button>
       <button class="tab" data-filter="markets">Farmers Markets</button>
+      <button class="tab" data-filter="races">Races</button>
     </div>
   </div>
 
@@ -261,6 +263,9 @@
   // a good free live data source: movies, fairs, festivals, holiday markets.
   const DATED = [
     { cat:'social', kind:'Car Meet', title:'DMV Ride Out 2026', date:'2026-09-13', time:'9:00 AM', place:'Horner Rd Commuter Lot, Woodbridge' },
+    { cat:'races', kind:'10-Miler', title:'Army Ten-Miler', date:'2026-10-11', place:'Pentagon, Washington, D.C.' },
+    { cat:'races', kind:'Obstacle Race', title:'Virginia Spartan Race Weekend', date:'2026-10-24', endDate:'2026-10-25', place:'Massanutten Resort, McGaheysville, VA', note:'Sprint and Super distances, plus a kids race.' },
+    { cat:'races', kind:'Marathon', title:'Marine Corps Marathon', date:'2026-10-25', place:'Arlington, VA & Washington, D.C.', note:'The Peoples Marathon, also includes an 8K and kids run that weekend.' },
     { cat:'movies', kind:'Now in Theaters', title:'Resident Evil', date:'2026-09-18', place:'Franchise reboot, dir. Zach Cregger' },
     { cat:'social', kind:'Fair', title:'State Fair of Virginia', date:'2026-09-25', endDate:'2026-10-04', place:'Meadow Event Park, Doswell' },
     { cat:'social', kind:'Festival', title:'Occoquan Fall Arts & Crafts Show', date:'2026-09-26', endDate:'2026-09-27', time:'10 AM – 5 PM', place:'Historic Occoquan, VA', note:'300+ artisans, live music, beer garden by the river.' },
