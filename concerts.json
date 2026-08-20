@@ -1,12 +1,1598 @@
 [
-  { "title": "$uicideboy$ Present Grey Day Tour 2026", "date": "2026-09-04", "time": "6:30 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Iron Maiden: Run For Your Lives World Tour", "date": "2026-09-11", "time": "7:15 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Babymetal World Tour", "date": "2026-09-12", "time": "7:20 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Wu-Tang Forever: The Final Chamber", "date": "2026-09-15", "time": "7:30 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "TLC & Salt-N-Pepa with En Vogue: It's Iconic", "date": "2026-09-16", "time": "7:30 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Treaty Oak Revival", "date": "2026-09-18", "time": "7:00 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Broccoli City 2026", "date": "2026-09-19", "time": "5:00 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Chris Stapleton's All-American Road Show", "date": "2026-10-02", "time": "7:30 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Five Finger Death Punch", "date": "2026-10-23", "time": "6:45 PM", "place": "Jiffy Lube Live, Bristow" },
-  { "title": "Breaking Benjamin, Chevelle & Starset", "date": "2026-10-24", "time": "6:00 PM", "place": "Jiffy Lube Live, Bristow" }
+  {
+    "title": "Koe Wetzel: The Night Champion World Tour",
+    "date": "2026-08-20",
+    "time": "6:45 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "SOS: The Recession Pop Party",
+    "date": "2026-08-21",
+    "time": "9:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Ella Mai - Do You Still Love Me? Tour",
+    "date": "2026-08-21",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "White Ford Bronco: DC's All '90s Band",
+    "date": "2026-08-22",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Masego: Fix Your Face Tour",
+    "date": "2026-08-22",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "The Psychedelic Furs with Special Guests Living Colour",
+    "date": "2026-08-23",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Labrinth with the National Symphony Orchestra",
+    "date": "2026-08-24",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Jack Harlow - Monica Tour",
+    "date": "2026-08-25",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Tiffany Day - HALO TOUR",
+    "date": "2026-08-27",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Earlybirds Club",
+    "date": "2026-08-28",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Earlybirds Club",
+    "date": "2026-08-29",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Quicksand & Bane",
+    "date": "2026-08-31",
+    "time": "6:30 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "MIKE D 5D",
+    "date": "2026-09-01",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "50th Anniversary of Go-Go Celebration",
+    "date": "2026-09-03",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
+    "date": "2026-09-04",
+    "time": "6:30 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Emo Night Brooklyn",
+    "date": "2026-09-04",
+    "time": "9:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Social Distortion",
+    "date": "2026-09-04",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "BOP TO THE TOP TOUR",
+    "date": "2026-09-05",
+    "time": "5:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Gimme Gimme Disco",
+    "date": "2026-09-05",
+    "time": "9:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Ken Carson - xperimenting tour",
+    "date": "2026-09-05",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Channel Tres - The Enigma Tour",
+    "date": "2026-09-07",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Peter Hook & The Light - North American Tour 2026",
+    "date": "2026-09-08",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Robyn - The Sexistential Tour",
+    "date": "2026-09-08",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Robyn - The Sexistential Tour",
+    "date": "2026-09-09",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+    "date": "2026-09-10",
+    "time": "7:30 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Bella Kay: The Reckless Tour",
+    "date": "2026-09-10",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Jay Park with special guest LNGSHOT: Serenades & Body Rolls",
+    "date": "2026-09-10",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Iron Maiden: Run For Your Lives World Tour 2026",
+    "date": "2026-09-11",
+    "time": "7:15 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Melanie C World Tour",
+    "date": "2026-09-11",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "BABYMETAL WORLD TOUR 2026",
+    "date": "2026-09-12",
+    "time": "7:20 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Willow Avalon",
+    "date": "2026-09-12",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Venjent",
+    "date": "2026-09-12",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Sara Bareilles: The Good Grief Tour",
+    "date": "2026-09-12",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Little Stranger",
+    "date": "2026-09-13",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Sara Bareilles: The Good Grief Tour",
+    "date": "2026-09-13",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Wu-Tang Forever: The Final Chamber",
+    "date": "2026-09-15",
+    "time": "7:30 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "ADÉLA: The Red Bottoms Tour",
+    "date": "2026-09-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "YSL Records & Young Thug Presents: The New Generation Tour",
+    "date": "2026-09-15",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
+    "date": "2026-09-16",
+    "time": "7:30 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Whitney",
+    "date": "2026-09-16",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "The Beltway Brawl VII",
+    "date": "2026-09-16",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "oskar med k",
+    "date": "2026-09-17",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "JUNGLE - World Tour 2026",
+    "date": "2026-09-17",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Treaty Oak Revival: West Texas Degenerate Tour",
+    "date": "2026-09-18",
+    "time": "7:00 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Ashley Cooke: The Baby Blues Tour",
+    "date": "2026-09-18",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Hot In Herre: 2000s Dance Party",
+    "date": "2026-09-18",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
+    "date": "2026-09-18",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "JUNGLE - World Tour 2026",
+    "date": "2026-09-18",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Broccoli City 2026 feat. Summer Walker, kwn, & Elmiene",
+    "date": "2026-09-19",
+    "time": "5:00 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Steph Tolev",
+    "date": "2026-09-19",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
+    "date": "2026-09-19",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Miel San Marcos & Gateway Worship",
+    "date": "2026-09-19",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Brandon Flowers",
+    "date": "2026-09-20",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Malcolm Todd: Do That Again Tour",
+    "date": "2026-09-20",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "The Milk Carton Kids",
+    "date": "2026-09-21",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Dermot Kennedy: The Weight of the Woods Tour",
+    "date": "2026-09-21",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Tinlicker North America 2026",
+    "date": "2026-09-22",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "aespa LIVE TOUR - SYNK : COMPLæXITY - in WASHINGTON",
+    "date": "2026-09-22",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Role Model Presents: Chuck On Tour",
+    "date": "2026-09-22",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Jane Remover - Live Exhibit",
+    "date": "2026-09-23",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Circle Jerks",
+    "date": "2026-09-24",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Mystics vs. Chicago Sky",
+    "date": "2026-09-24",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Earlybirds Club",
+    "date": "2026-09-25",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Haute & Freddy's Big Disgrace Tour",
+    "date": "2026-09-25",
+    "time": "11:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Boston Bruins (Preseason)",
+    "date": "2026-09-25",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Mastodon",
+    "date": "2026-09-25",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Don't Stop Believing: An 80s Prom Experience",
+    "date": "2026-09-26",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "josh conway: the plum tour",
+    "date": "2026-09-26",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Gorillaz - The Mountain Tour",
+    "date": "2026-09-26",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "honestav - The Sweet American Boy Tour ",
+    "date": "2026-09-27",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Julia Wolf",
+    "date": "2026-09-28",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Charli xcx - Music, Fashion, Film Tour",
+    "date": "2026-09-28",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Ringo Starr and His All Starr Band",
+    "date": "2026-09-28",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
+    "date": "2026-09-29",
+    "time": "7:30 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Phoebe Bridgers: The Lost Tour",
+    "date": "2026-09-29",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Ravyn Lenae Presents: Blue Island",
+    "date": "2026-09-29",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Lucinda Williams and her band",
+    "date": "2026-09-30",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+    "date": "2026-09-30",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Shaboozey - Outlaws Never Die Tour",
+    "date": "2026-09-30",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Public Image Ltd - This Is Not The Last Tour",
+    "date": "2026-10-01",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Chris Stapleton's All-American Road Show",
+    "date": "2026-10-02",
+    "time": "7:30 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Buffalo Traffic Jam - Pictures of You Tour",
+    "date": "2026-10-02",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "WEEZER: The Gathering",
+    "date": "2026-10-02",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "wave to earth - the pieces tour",
+    "date": "2026-10-02",
+    "time": "8:15 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "THE CALIFORNIA HONEYDROPS - SWEET LIKE THAT TOUR 2026",
+    "date": "2026-10-03",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Olivia Rodrigo: The Unraveled Tour",
+    "date": "2026-10-03",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Knocked Loose & Denzel Curry",
+    "date": "2026-10-03",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Medium Build Presents The King of Having Fun on Tour",
+    "date": "2026-10-04",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Olivia Rodrigo: The Unraveled Tour",
+    "date": "2026-10-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Indigo Girls",
+    "date": "2026-10-04",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Sylvan Esso",
+    "date": "2026-10-05",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN WASHINGTON",
+    "date": "2026-10-05",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Sylvan Esso",
+    "date": "2026-10-06",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "THE CHICKS - TAKING THE LONG WAY",
+    "date": "2026-10-06",
+    "time": "8:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Pittsburgh Penguins",
+    "date": "2026-10-07",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Foster The People - Good Mourning Sunshine",
+    "date": "2026-10-07",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "BERTHA: Grateful Drag",
+    "date": "2026-10-08",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Cash Money & No Limit Tour",
+    "date": "2026-10-08",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Bright Eyes",
+    "date": "2026-10-09",
+    "time": "6:30 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. New York Rangers",
+    "date": "2026-10-09",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "MO LOWDA & THE HUMBLE - Tailing the Ghost Tour",
+    "date": "2026-10-10",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Basement",
+    "date": "2026-10-10",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Wizards vs. Pistons (Preseason Game)",
+    "date": "2026-10-10",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Jessie Ware: The Superbloom Tour 2026",
+    "date": "2026-10-10",
+    "time": "8:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Seattle Kraken",
+    "date": "2026-10-11",
+    "time": "5:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+    "date": "2026-10-11",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Knox",
+    "date": "2026-10-12",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Wizards vs. Nets (Preseason Game)",
+    "date": "2026-10-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Teddy Swims: The UGLY Tour",
+    "date": "2026-10-13",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Montreal Canadiens",
+    "date": "2026-10-14",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Sugar",
+    "date": "2026-10-14",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Rebecca Black - Exhibitionism on Tour",
+    "date": "2026-10-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Don Omar \"The Last King World Tour\"",
+    "date": "2026-10-15",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Morrissey",
+    "date": "2026-10-15",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "LAUNDRY DAY Presents: The Larger Than LIFE Tour",
+    "date": "2026-10-16",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Allison Russell",
+    "date": "2026-10-16",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Rod Wave: Don't Look Down Tour",
+    "date": "2026-10-16",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "SOFI TUKKER Presents: ANIMAL TALK",
+    "date": "2026-10-16",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "An evening with Andrew McMahon and his piano ",
+    "date": "2026-10-17",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "THE RESIDENTS - ESKIMO LIVE",
+    "date": "2026-10-17",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. New Jersey Devils",
+    "date": "2026-10-17",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Quadeca",
+    "date": "2026-10-18",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+    "date": "2026-10-18",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Steve Lacy: Oh yeah? Tour",
+    "date": "2026-10-18",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Waylon Wyatt - Dustpiles World Tour",
+    "date": "2026-10-20",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Los Angeles Kings",
+    "date": "2026-10-20",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Rodrigo y Gabriela - OurHome Tour",
+    "date": "2026-10-20",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "THE DAMNED - FINAL DAMNATION 50",
+    "date": "2026-10-21",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Milwaukee Bucks",
+    "date": "2026-10-21",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Jesse Welles - Red Tour 2026",
+    "date": "2026-10-21",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "LØLØ - God Forbid a Girl Goes on Tour",
+    "date": "2026-10-22",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "KATSEYE: THE WILDWORLD TOUR",
+    "date": "2026-10-22",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Five Finger Death Punch",
+    "date": "2026-10-23",
+    "time": "6:45 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "RØZ Presents: SE ESTÁ HACIENDO TARDE",
+    "date": "2026-10-23",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Toronto Raptors",
+    "date": "2026-10-23",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Breaking Benjamin",
+    "date": "2026-10-24",
+    "time": "6:00 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Paris Paloma: The Fatal Flaw Tour",
+    "date": "2026-10-24",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Buffalo Sabres",
+    "date": "2026-10-24",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Jerry Seinfeld",
+    "date": "2026-10-24",
+    "time": "5:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Jerry Seinfeld",
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Paris Paloma: The Fatal Flaw Tour",
+    "date": "2026-10-25",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "RUSH: Fifty Something",
+    "date": "2026-10-25",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Beck - RIDE LONESOME TOUR",
+    "date": "2026-10-25",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "HEY, NOTHING - THE HOUND TOUR",
+    "date": "2026-10-26",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Patrick Droney",
+    "date": "2026-10-27",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "RUSH: Fifty Something",
+    "date": "2026-10-27",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Sueco",
+    "date": "2026-10-28",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Philadelphia Flyers",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "MICO - Running From A Feeling Tour",
+    "date": "2026-10-29",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Jukebox the Ghost: HalloQueen",
+    "date": "2026-10-30",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Bassvictim",
+    "date": "2026-10-30",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Charlotte Hornets",
+    "date": "2026-10-30",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Hudson Westbrook: Hits Me Tour",
+    "date": "2026-10-30",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
+    "date": "2026-10-31",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Holywatr: Deo Gratias Tour",
+    "date": "2026-10-31",
+    "time": "11:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
+    "date": "2026-10-31",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "She Wants Revenge",
+    "date": "2026-11-01",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Minnesota Wild",
+    "date": "2026-11-01",
+    "time": "3:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Undertale - The Determination Symphony World Tour",
+    "date": "2026-11-01",
+    "time": "3:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Undertale - The Determination Symphony World Tour",
+    "date": "2026-11-01",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Hovvdy",
+    "date": "2026-11-02",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Loyola (MD)",
+    "date": "2026-11-02",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Dallas Stars",
+    "date": "2026-11-03",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "The Music of Hey Arnold! - Live!",
+    "date": "2026-11-04",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Atlanta Hawks",
+    "date": "2026-11-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Geese - Getting Killed Again Tour",
+    "date": "2026-11-06",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Hiss Golden Messenger - I'm People Tour",
+    "date": "2026-11-07",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Winyah",
+    "date": "2026-11-07",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Florida Panthers",
+    "date": "2026-11-07",
+    "time": "12:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Maryland",
+    "date": "2026-11-07",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "The Mountain Grass Unit - Appalachian Smoke Tour",
+    "date": "2026-11-08",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Slow Pulp",
+    "date": "2026-11-09",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "SOMBR - You Are The Reason Tour",
+    "date": "2026-11-10",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Amble",
+    "date": "2026-11-11",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "ZAYN: The Konnakol Tour",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Sammy Rae & The Friends",
+    "date": "2026-11-12",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Detroit Pistons",
+    "date": "2026-11-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Sammy Rae & The Friends",
+    "date": "2026-11-13",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Strawberry Guy",
+    "date": "2026-11-13",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Geese - Getting Killed Again Tour",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Sammy Rae & The Friends",
+    "date": "2026-11-14",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Fruit Bats",
+    "date": "2026-11-14",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. New Jersey Devils",
+    "date": "2026-11-14",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Giant Rooks",
+    "date": "2026-11-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Houston Rockets",
+    "date": "2026-11-15",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Jalen Ngonda: Doctrine of Love Tour",
+    "date": "2026-11-16",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Memphis Grizzlies",
+    "date": "2026-11-16",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Gregory Porter - DC Jazz Festival Benefit Concert, A Night of Stars",
+    "date": "2026-11-16",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Die Spitz",
+    "date": "2026-11-17",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+    "date": "2026-11-17",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Andrea Gibson's Love Letter From The Afterlife",
+    "date": "2026-11-17",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Matt Hansen - The Orchid Tour",
+    "date": "2026-11-18",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Navy",
+    "date": "2026-11-18",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants",
+    "date": "2026-11-19",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants - Two Night Pass 11/19 & 11/20!",
+    "date": "2026-11-19",
+    "time": "",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants - Four Night Pass!",
+    "date": "2026-11-19",
+    "time": "",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Buffalo Sabres",
+    "date": "2026-11-19",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants",
+    "date": "2026-11-20",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Palace - USA & Canada Tour",
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants",
+    "date": "2026-11-21",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants - Two Night Pass 11/21 & 11/22!",
+    "date": "2026-11-21",
+    "time": "",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Doja Cat - Tour Ma Vie World Tour",
+    "date": "2026-11-21",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Dark Star Orchestra - Celebrating 45 Years of Reckoning",
+    "date": "2026-11-21",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "They Might Be Giants",
+    "date": "2026-11-22",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Orlando Magic",
+    "date": "2026-11-22",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Boston Celtics",
+    "date": "2026-11-24",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "emmet swimming + Dillon Fence",
+    "date": "2026-11-25",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Philadelphia Flyers",
+    "date": "2026-11-25",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Florida Panthers",
+    "date": "2026-11-27",
+    "time": "3:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Orlando Magic",
+    "date": "2026-11-28",
+    "time": "5:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Vancouver Canucks",
+    "date": "2026-12-01",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v UMass Lowell",
+    "date": "2026-12-02",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "TYLA - THE A*POP WORLD TOUR",
+    "date": "2026-12-02",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Pigeons Playing Ping Pong - 3 NIGHT PASS!",
+    "date": "2026-12-03",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "nimino: keep me awake tour",
+    "date": "2026-12-03",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Pigeons Playing Ping Pong",
+    "date": "2026-12-04",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Brett Goldstein: Sex, Death & Small Talk",
+    "date": "2026-12-04",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Pigeons Playing Ping Pong",
+    "date": "2026-12-05",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "GWAR",
+    "date": "2026-12-08",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Squirrel Nut Zippers Christmas Caravan Tour",
+    "date": "2026-12-09",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Rider",
+    "date": "2026-12-09",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Charlotte Hornets",
+    "date": "2026-12-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v North Carolina",
+    "date": "2026-12-12",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Lucy Bedroque",
+    "date": "2026-12-13",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Sacred Heart",
+    "date": "2026-12-16",
+    "time": "",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Detroit Red Wings",
+    "date": "2026-12-17",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. New York Knicks",
+    "date": "2026-12-18",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. St Louis Blues",
+    "date": "2026-12-19",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Toronto Raptors",
+    "date": "2026-12-22",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Cleveland Cavaliers",
+    "date": "2026-12-23",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Portland Trail Blazers",
+    "date": "2026-12-26",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Columbus Blue Jackets",
+    "date": "2026-12-26",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Edmonton Oilers",
+    "date": "2026-12-28",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "2026 Premium Season Tickets",
+    "date": "2026-12-31",
+    "time": "",
+    "place": "Jiffy Lube Live, Bristow"
+  },
+  {
+    "title": "Washington Wizards vs. San Antonio Spurs",
+    "date": "2027-01-01",
+    "time": "5:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Ottawa Senators",
+    "date": "2027-01-02",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. LA Clippers",
+    "date": "2027-01-03",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Toronto Maple Leafs",
+    "date": "2027-01-04",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Los Angeles Lakers",
+    "date": "2027-01-05",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Oklahoma City Thunder",
+    "date": "2027-01-07",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Minnesota Timberwolves",
+    "date": "2027-01-08",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Atlanta Hawks",
+    "date": "2027-01-11",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Vegas Golden Knights",
+    "date": "2027-01-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Carolina Hurricanes",
+    "date": "2027-01-14",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Colorado Avalanche",
+    "date": "2027-01-16",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Indiana Pacers",
+    "date": "2027-01-17",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Boston Celtics",
+    "date": "2027-01-18",
+    "time": "3:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Montreal Canadiens",
+    "date": "2027-01-19",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. New York Islanders",
+    "date": "2027-01-22",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Sacramento Kings",
+    "date": "2027-01-28",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-30",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-30",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-31",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Winnipeg Jets",
+    "date": "2027-02-02",
+    "time": "6:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. New Orleans Pelicans",
+    "date": "2027-02-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Chicago Bulls",
+    "date": "2027-02-08",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Miami Heat",
+    "date": "2027-02-10",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Brooklyn Nets",
+    "date": "2027-02-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Milwaukee Bucks",
+    "date": "2027-02-13",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Utah Mammoth",
+    "date": "2027-02-14",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Phoenix Suns",
+    "date": "2027-02-15",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. Anaheim Ducks",
+    "date": "2027-02-16",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Wizards vs. Miami Heat",
+    "date": "2027-02-17",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "Washington Capitals vs. San Jose Sharks",
+    "date": "2027-02-19",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC"
+  },
+  {
+    "title": "FKJ - TYBER TOUR",
+    "date": "2027-06-07",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC"
+  },
+  {
+    "title": "Stick Figure - Enjoy the Ride Tour",
+    "date": "2027-06-24",
+    "time": "6:30 PM",
+    "place": "Jiffy Lube Live, Bristow"
+  }
 ]
