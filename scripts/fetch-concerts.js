@@ -40,10 +40,11 @@ async function fetchVenue(venue) {
     return events
       .filter(ev => ev.dates && ev.dates.start && ev.dates.start.localDate)
       .map(ev => ({
-              title: ev.name,
-              date: ev.dates.start.localDate,
-              time: formatTime(ev.dates.start.localTime),
-              place: venue.place,
+        title: ev.name,
+         date: ev.dates.start.localDate,
+         time: formatTime(ev.dates.start.localTime),
+         place: venue.place,
+         cat: (ev.classifications && ev.classifications[0] && ev.classifications[0].segment && ev.classifications[0].segment.name === 'Sports') ? 'sports' : 'concerts',
       }));
 }
 
