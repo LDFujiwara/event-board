@@ -5,7 +5,12 @@
 const fs = require('fs');
 
 const API_KEY = process.env.TICKETMASTER_API_KEY;
-const VENUE_ID = 'KovZpZAEk6JA'; // Jiffy Lube Live, Bristow VA
+const VENUES = [
+  { id: 'KovZpZAEk6JA', place: 'Jiffy Lube Live, Bristow' },
+  { id: 'KovZpZA7knFA', place: '9:30 Club, Washington DC' },
+  { id: 'KovZpaKuJe', place: 'Capital One Arena, Washington DC' },
+  { id: 'KovZ917A3Y7', place: 'The Anthem, Washington DC' },
+  ];
 
 if (!API_KEY) {
   console.error('Missing TICKETMASTER_API_KEY environment variable.');
@@ -20,31 +25,40 @@ function formatTime(t) {
   return `${hour12}:${String(m).padStart(2, '0')} ${period}`;
 }
 
-async function main() {
-  const url = `https://app.ticketmaster.com/discovery/v2/events.json?apikey=${API_KEY}&venueId=${VENUE_ID}&size=100&sort=date,asc`;
-  const res = await fetch(url);
+async function fetchVenue(venue) {
+    const url = `https://app.ticketmaster.com/discovery/v2/events.json?apikey=${API_KEY}&venueId=${venue.id}&size=100&sort=date,asc`;
+    const res = await fetch(url);
 
-  if (!res.ok) {
-    console.error('Ticketmaster API request failed:', res.status, await res.text());
-    process.exit(1);
-  }
+    if (!res.ok) {
+          console.error('Ticketmaster API request failed for', venue.place, res.status, await res.text());
+          return [];
+    }
 
-  const data = await res.json();
-  const events = (data._embedded && data._embedded.events) || [];
+    const data = await res.json();
+    const events = (data._embedded && data._embedded.events) || [];
 
-  const concerts = events
-    .filter(ev => ev.dates && ev.dates.start && ev.dates.start.localDate)
-    .map(ev => ({
-      title: ev.name,
-      date: ev.dates.start.localDate,
-      time: formatTime(ev.dates.start.localTime),
-      place: 'Jiffy Lube Live, Bristow',
-    }));
-
-  fs.writeFileSync('concerts.json', JSON.stringify(concerts, null, 2) + '\n');
-  console.log(`Wrote ${concerts.length} concerts to concerts.json`);
+    return events
+      .filter(ev => ev.dates && ev.dates.start && ev.dates.start.localDate)
+      .map(ev => ({
+              title: ev.name,
+              date: ev.dates.start.localDate,
+              time: formatTime(ev.dates.start.localTime),
+              place: venue.place,
+      }));
 }
 
+async function main() {
+    let allConcerts = [];
+    for (const venue of VENUES) {
+          const venueConcerts = await fetchVenue(venue);
+          allConcerts = allConcerts.concat(venueConcerts);
+    }
+
+    allConcerts.sort((a, b) => a.date.localeCompare(b.date));
+
+    fs.writeFileSync('concerts.json', JSON.stringify(allConcerts, null, 2) + '\n');
+    console.log(`Wrote ${allConcerts.length} concerts to concerts.json`);
+}
 main().catch(err => {
   console.error(err);
   process.exit(1);
