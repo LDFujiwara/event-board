@@ -14,6 +14,7 @@
     --social: #2c0f52;
     --markets: #123a1c;
     --races: #4a1010;
+    --sports: #4a3610;
   }
 
   * { box-sizing: border-box; }
@@ -233,7 +234,8 @@
       <button class="tab" data-filter="movies">Movies</button>
       <button class="tab" data-filter="races">Races</button>
     <button class="tab" data-filter="concerts">Concerts</button>
-      <button class="tab" data-filter="social">Fairs, Car Meets &amp; Social</button>
+      <button class="tab" data-filter="sports">Sports</button>
+      <button class="tab" data-filter="social">Social Events</button>
       <button class="tab" data-filter="markets">Farmers Markets</button>
       </div>
   </div>
@@ -283,8 +285,8 @@
       if (!res.ok) return [];
       const data = await res.json();
       return data.map(c => ({
-        cat: 'concerts',
-        kind: 'Concert',
+        cat: c.cat || 'concerts',
+         kind: (c.cat === 'sports') ? 'Sporting Event' : 'Concert',
         title: c.title,
         date: c.date,
         time: c.time,
@@ -311,6 +313,8 @@
     { cat:'markets', kind:'Farmers Market', title:"Tackett's Mill Tuesday Market", dow:2, monthsActive:[9,10], time:'3:30 – 6:30 PM', place:"2231 Tackett's Mill Dr, Lake Ridge", recurLabel:'Tue, through Oct' },
     { cat:'social', kind:'Car Meet', title:'Potomac Cars & Coffee', dow:0, weeksOfMonth:[2,4], time:'9:00 – 11:00 AM', place:'Whalen Commons, Poolesville, MD' },
     { cat:'social', kind:'Car Meet', title:'Westfield Montgomery Cars & Coffee', dow:0, weeksOfMonth:[1,3], time:'8:00 – 10:00 AM', place:'Westfield Montgomery Mall, Bethesda, MD' },
+    { cat:'social', kind:'Car Meet', title:'Taco Tuesday', dow:2, time:'Evening (location rotates weekly)', place:'DMV-wide — check @tacotuesdaymeet on Instagram for this week’s spot' },
+    { cat:'social', kind:'Car Meet', title:'Dulles Landing Cars & Coffee', dow:6, time:'8:00 – 11:00 AM', place:'Dunkin’, 24560 Dulles Landing Dr, Dulles' },
     { cat:'markets', kind:'Farmers Market', title:'Eastern Market', dow:6, time:'9:00 AM – 3:00 PM', place:'225 7th St SE, Washington, D.C.' },
     { cat:'markets', kind:'Farmers Market', title:'Eastern Market', dow:0, time:'9:00 AM – 3:00 PM', place:'225 7th St SE, Washington, D.C.' },
     { cat:'markets', kind:'Farmers Market', title:'Dupont Circle FRESHFARM Market', dow:0, time:'8:30 AM – 1:30 PM', place:'20th & Q St NW, Washington, D.C.' },
