@@ -1,12 +1,5 @@
 [
   {
-    "title": "Koe Wetzel: The Night Champion World Tour",
-    "date": "2026-08-20",
-    "time": "6:45 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "SOS: The Recession Pop Party",
     "date": "2026-08-21",
     "time": "9:00 PM",
@@ -1526,6 +1519,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Montell Fish - The Nest Tour",
+    "date": "2026-12-07",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "GWAR",
     "date": "2026-12-08",
     "time": "6:00 PM",
@@ -1559,13 +1559,6 @@
     "time": "",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
-  },
-  {
-    "title": "Lucy Bedroque",
-    "date": "2026-12-13",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
   },
   {
     "title": "Georgetown Hoyas Men's Basketball v Sacred Heart",
