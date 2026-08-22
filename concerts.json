@@ -1,19 +1,5 @@
 [
   {
-    "title": "SOS: The Recession Pop Party",
-    "date": "2026-08-21",
-    "time": "9:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Ella Mai - Do You Still Love Me? Tour",
-    "date": "2026-08-21",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "White Ford Bronco: DC's All '90s Band",
     "date": "2026-08-22",
     "time": "8:00 PM",
@@ -938,6 +924,13 @@
     "cat": "sports"
   },
   {
+    "title": "Jerry Seinfeld",
+    "date": "2026-10-23",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Breaking Benjamin",
     "date": "2026-10-24",
     "time": "6:00 PM",
@@ -1188,6 +1181,13 @@
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Capital Showcase: Virginia vs. Arkansas Men's Basketball",
+    "date": "2026-11-08",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "Slow Pulp",
@@ -1561,6 +1561,13 @@
     "cat": "sports"
   },
   {
+    "title": "Lucy Bedroque",
+    "date": "2026-12-13",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Georgetown Hoyas Men's Basketball v Sacred Heart",
     "date": "2026-12-16",
     "time": "",
@@ -1829,13 +1836,6 @@
   {
     "title": "Washington Wizards vs. Miami Heat",
     "date": "2027-02-17",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals vs. San Jose Sharks",
-    "date": "2027-02-19",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
