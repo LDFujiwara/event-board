@@ -1,12 +1,5 @@
 [
   {
-    "title": "Jack Harlow - Monica Tour",
-    "date": "2026-08-25",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Tiffany Day - HALO TOUR",
     "date": "2026-08-27",
     "time": "7:00 PM",
@@ -1047,6 +1040,13 @@
     "date": "2026-10-31",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Yebba",
+    "date": "2026-10-31",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
