@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tiffany Day - HALO TOUR",
-    "date": "2026-08-27",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Earlybirds Club",
     "date": "2026-08-28",
     "time": "6:00 PM",
@@ -1664,6 +1657,13 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "The Taylor Party: Taylor Swift Night",
+    "date": "2027-01-09",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Washington Wizards vs. Atlanta Hawks",
