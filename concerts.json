@@ -1,13 +1,6 @@
 [
   {
     "title": "Earlybirds Club",
-    "date": "2026-08-28",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Earlybirds Club",
     "date": "2026-08-29",
     "time": "6:00 PM",
     "place": "9:30 Club, Washington DC",
@@ -1769,6 +1762,13 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Ibeyi",
+    "date": "2027-02-08",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Washington Wizards vs. Chicago Bulls",
