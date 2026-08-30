@@ -1,12 +1,5 @@
 [
   {
-    "title": "Earlybirds Club",
-    "date": "2026-08-29",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Quicksand & Bane",
     "date": "2026-08-31",
     "time": "6:30 PM",
@@ -1825,6 +1818,13 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Blondshell - Scaring Strangers Tour",
+    "date": "2027-03-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "FKJ - TYBER TOUR",
