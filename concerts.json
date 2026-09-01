@@ -1,12 +1,5 @@
 [
   {
-    "title": "Quicksand & Bane",
-    "date": "2026-08-31",
-    "time": "6:30 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "MIKE D 5D",
     "date": "2026-09-01",
     "time": "7:00 PM",
@@ -1822,6 +1815,13 @@
   {
     "title": "Blondshell - Scaring Strangers Tour",
     "date": "2027-03-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "The Airborne Toxic Event - The Way Home 20 Year Anniversary Tour",
+    "date": "2027-05-20",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
