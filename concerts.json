@@ -1,12 +1,5 @@
 [
   {
-    "title": "Channel Tres - The Enigma Tour",
-    "date": "2026-09-07",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Peter Hook & The Light - North American Tour 2026",
     "date": "2026-09-08",
     "time": "7:00 PM",
@@ -392,7 +385,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Lucinda Williams and her band",
+    "title": "Lucinda Williams And Her Band",
     "date": "2026-09-30",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
@@ -462,6 +455,13 @@
     "cat": "concerts"
   },
   {
+    "title": "SILVER STAR TICKETS - Olivia Rodrigo: The Unraveled Tour",
+    "date": "2026-10-03",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Olivia Rodrigo: The Unraveled Tour",
     "date": "2026-10-03",
     "time": "7:00 PM",
@@ -480,6 +480,13 @@
     "date": "2026-10-04",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "SILVER STAR TICKETS - Olivia Rodrigo: The Unraveled Tour",
+    "date": "2026-10-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1330,6 +1337,13 @@
     "cat": "sports"
   },
   {
+    "title": "Stevie Wonder Songs in The Key of Life Performances 50th Anniversary",
+    "date": "2026-11-23",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Washington Wizards vs. Boston Celtics",
     "date": "2026-11-24",
     "time": "8:00 PM",
@@ -1477,6 +1491,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Matt Rogers: THIS TIME IT'S *REALLY* CHRISTMAS Tour",
+    "date": "2026-12-16",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Georgetown Hoyas Men's Basketball v Sacred Heart",
     "date": "2026-12-16",
     "time": "",
@@ -1544,6 +1565,13 @@
     "date": "2026-12-31",
     "time": "",
     "place": "Jiffy Lube Live, Bristow",
+    "cat": "concerts"
+  },
+  {
+    "title": "New Year's Eve with DJ Trixie Mattel",
+    "date": "2026-12-31",
+    "time": "9:30 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1746,27 +1774,6 @@
     "title": "Washington Capitals vs. Utah Mammoth",
     "date": "2027-02-14",
     "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Wizards vs. Phoenix Suns",
-    "date": "2027-02-15",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals vs. Anaheim Ducks",
-    "date": "2027-02-16",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Wizards vs. Miami Heat",
-    "date": "2027-02-17",
-    "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
