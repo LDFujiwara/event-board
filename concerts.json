@@ -1,19 +1,5 @@
 [
   {
-    "title": "Peter Hook & The Light - North American Tour 2026",
-    "date": "2026-09-08",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Robyn - The Sexistential Tour",
-    "date": "2026-09-08",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Robyn - The Sexistential Tour",
     "date": "2026-09-09",
     "time": "8:00 PM",
@@ -1554,6 +1540,20 @@
     "cat": "sports"
   },
   {
+    "title": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+    "date": "2026-12-27",
+    "time": "3:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+    "date": "2026-12-27",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Washington Capitals vs. Edmonton Oilers",
     "date": "2026-12-28",
     "time": "7:00 PM",
@@ -1570,7 +1570,7 @@
   {
     "title": "New Year's Eve with DJ Trixie Mattel",
     "date": "2026-12-31",
-    "time": "9:30 PM",
+    "time": "10:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
@@ -1764,22 +1764,15 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Milwaukee Bucks",
-    "date": "2027-02-13",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals vs. Utah Mammoth",
-    "date": "2027-02-14",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Blondshell - Scaring Strangers Tour",
     "date": "2027-03-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Beirut",
+    "date": "2027-04-06",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
