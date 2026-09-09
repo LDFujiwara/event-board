@@ -303,6 +303,18 @@
     }
   }
 
+  async function fetchMovies() {
+    try {
+      const res = await fetch('movies.json', { cache: 'no-store' });
+      if (!res.ok) return [];
+      const data = await res.json();
+      return data.map(m => ({ cat: 'movies', kind: 'Now in Theaters', title: m.title, date: m.date }));
+    } catch (e) {
+      console.warn('Could not load movies.json', e);
+      return [];
+    }
+  }
+
   /* =========================================================
      RECURRING EVENTS
      dow: 0=Sun ... 6=Sat. Each one's displayed date is always
@@ -365,7 +377,10 @@
     const today = startOfToday();
     const items = [];
     const concerts = await fetchConcerts();
-    const allDated = DATED.concat(concerts);
+    const movies = await fetchMovies();
+    const existingMovieTitles = new Set(DATED.filter(e => e.cat === 'movies').map(e => e.title.toLowerCase()));
+    const newMovies = movies.filter(m => !existingMovieTitles.has((m.title || '').toLowerCase()));
+    const allDated = DATED.concat(concerts).concat(newMovies);
 
     allDated.forEach(ev => {
       const start = parseISO(ev.date);
