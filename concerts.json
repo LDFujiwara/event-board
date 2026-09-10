@@ -1,12 +1,5 @@
 [
   {
-    "title": "Robyn - The Sexistential Tour",
-    "date": "2026-09-09",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
     "date": "2026-09-10",
     "time": "7:30 PM",
@@ -436,7 +429,7 @@
   {
     "title": "THE CALIFORNIA HONEYDROPS - SWEET LIKE THAT TOUR 2026",
     "date": "2026-10-03",
-    "time": "10:00 PM",
+    "time": "8:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1356,6 +1349,13 @@
     "time": "3:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Victoria Monét: Frequency Of Love Tour",
+    "date": "2026-11-27",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Washington Wizards vs. Orlando Magic",
