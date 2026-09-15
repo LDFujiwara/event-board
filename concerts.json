@@ -1078,6 +1078,13 @@
     "cat": "sports"
   },
   {
+    "title": "Trey Anastasio Band",
+    "date": "2026-11-14",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Giant Rooks",
     "date": "2026-11-15",
     "time": "7:00 PM",
@@ -1187,6 +1194,13 @@
     "date": "2026-11-20",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Karan Aujla",
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1351,6 +1365,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Demetri Martin: Standup Comedy for Christmas",
+    "date": "2026-12-06",
+    "time": "4:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Montell Fish - The Nest Tour",
     "date": "2026-12-07",
     "time": "7:00 PM",
@@ -1377,6 +1398,27 @@
     "time": "",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Matisyahu - ULTIMATE PACKAGE - VIP Upsell",
+    "date": "2026-12-10",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Matisyahu - MIRACLE PACKAGE - VIP UPSELL",
+    "date": "2026-12-10",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Matisyahu - Festival of Lights",
+    "date": "2026-12-10",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Washington Wizards vs. Charlotte Hornets",
@@ -1694,11 +1736,11 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Brooklyn Nets",
-    "date": "2027-02-12",
+    "title": "Rhiannon Giddens",
+    "date": "2027-02-28",
     "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Blondshell - Scaring Strangers Tour",
