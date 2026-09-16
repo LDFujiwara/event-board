@@ -1,26 +1,5 @@
 [
   {
-    "title": "Wu-Tang Forever: The Final Chamber",
-    "date": "2026-09-15",
-    "time": "7:30 PM",
-    "place": "Jiffy Lube Live, Bristow",
-    "cat": "concerts"
-  },
-  {
-    "title": "ADÉLA: The Red Bottoms Tour",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "YSL Records & Young Thug Presents: The New Generation Tour",
-    "date": "2026-09-15",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
     "date": "2026-09-16",
     "time": "7:30 PM",
@@ -183,6 +162,13 @@
   },
   {
     "title": "Mystics vs. Chicago Sky",
+    "date": "2026-09-24",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Mystics vs. Chicago Sky: Capital One Arena VIP Seating",
     "date": "2026-09-24",
     "time": "7:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1470,6 +1456,13 @@
     "cat": "sports"
   },
   {
+    "title": "Thievery Corporation",
+    "date": "2026-12-19",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Washington Capitals vs. St Louis Blues",
     "date": "2026-12-19",
     "time": "7:00 PM",
@@ -1729,11 +1722,11 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Miami Heat",
+    "title": "Bad Suns - Disappear Here: A Ten Year Celebration",
     "date": "2027-02-10",
     "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Rhiannon Giddens",
