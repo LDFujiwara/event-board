@@ -1,26 +1,5 @@
 [
   {
-    "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
-    "date": "2026-09-16",
-    "time": "7:30 PM",
-    "place": "Jiffy Lube Live, Bristow",
-    "cat": "concerts"
-  },
-  {
-    "title": "Whitney",
-    "date": "2026-09-16",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "The Beltway Brawl VII",
-    "date": "2026-09-16",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "oskar med k",
     "date": "2026-09-17",
     "time": "8:00 PM",
@@ -931,6 +910,13 @@
     "cat": "sports"
   },
   {
+    "title": "Hamilton Leithauser + Rostam: The Joint Tour",
+    "date": "2026-11-05",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Geese - Getting Killed Again Tour",
     "date": "2026-11-06",
     "time": "8:00 PM",
@@ -1470,6 +1456,13 @@
     "cat": "sports"
   },
   {
+    "title": "Georgetown Hoyas Men's Basketball v Seton Hall",
+    "date": "2026-12-19",
+    "time": "",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Washington Wizards vs. Toronto Raptors",
     "date": "2026-12-22",
     "time": "7:00 PM",
@@ -1517,13 +1510,6 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
-  },
-  {
-    "title": "2026 Premium Season Tickets",
-    "date": "2026-12-31",
-    "time": "",
-    "place": "Jiffy Lube Live, Bristow",
-    "cat": "concerts"
   },
   {
     "title": "New Year's Eve with DJ Trixie Mattel",
@@ -1715,13 +1701,6 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Chicago Bulls",
-    "date": "2027-02-08",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Bad Suns - Disappear Here: A Ten Year Celebration",
     "date": "2027-02-10",
     "time": "7:00 PM",
@@ -1750,6 +1729,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Beirut",
+    "date": "2027-04-07",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "The Airborne Toxic Event - The Way Home 20 Year Anniversary Tour",
     "date": "2027-05-20",
     "time": "7:00 PM",
@@ -1767,6 +1753,13 @@
     "title": "Stick Figure - Enjoy the Ride Tour",
     "date": "2027-06-24",
     "time": "6:30 PM",
+    "place": "Jiffy Lube Live, Bristow",
+    "cat": "concerts"
+  },
+  {
+    "title": "2027 PREMIUM SEASON TICKETS WAITLIST",
+    "date": "2027-12-31",
+    "time": "",
     "place": "Jiffy Lube Live, Bristow",
     "cat": "concerts"
   }
