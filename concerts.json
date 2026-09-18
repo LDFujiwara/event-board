@@ -1,19 +1,5 @@
 [
   {
-    "title": "oskar med k",
-    "date": "2026-09-17",
-    "time": "8:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "JUNGLE - World Tour 2026",
-    "date": "2026-09-17",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Treaty Oak Revival: West Texas Degenerate Tour",
     "date": "2026-09-18",
     "time": "7:00 PM",
@@ -1512,6 +1498,13 @@
     "cat": "sports"
   },
   {
+    "title": "Georgetown Hoyas Men's Basketball v Xavier",
+    "date": "2026-12-30",
+    "time": "",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "New Year's Eve with DJ Trixie Mattel",
     "date": "2026-12-31",
     "time": "10:00 PM",
@@ -1536,6 +1529,13 @@
     "title": "Washington Wizards vs. LA Clippers",
     "date": "2027-01-03",
     "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Villanova",
+    "date": "2027-01-03",
+    "time": "",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
@@ -1573,6 +1573,13 @@
     "time": "8:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Creighton",
+    "date": "2027-01-09",
+    "time": "",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "Washington Wizards vs. Atlanta Hawks",
@@ -1631,11 +1638,25 @@
     "cat": "sports"
   },
   {
+    "title": "Georgetown Hoyas Men's Basketball v Providence",
+    "date": "2027-01-23",
+    "time": "",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Stella Lefty: Long Way Home Tour",
     "date": "2027-01-23",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Connecticut",
+    "date": "2027-01-26",
+    "time": "",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "Washington Wizards vs. Sacramento Kings",
@@ -1650,41 +1671,6 @@
     "time": "8:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
-  },
-  {
-    "title": "Monster Jam",
-    "date": "2027-01-30",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Monster Jam",
-    "date": "2027-01-30",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Monster Jam",
-    "date": "2027-01-31",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals vs. Winnipeg Jets",
-    "date": "2027-02-02",
-    "time": "6:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Wizards vs. New Orleans Pelicans",
-    "date": "2027-02-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
   },
   {
     "title": "Alan Walker",
@@ -1712,6 +1698,13 @@
     "date": "2027-02-28",
     "time": "7:00 PM",
     "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Valley - Do You Need to Be Entertained Tour",
+    "date": "2027-03-14",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
   {
