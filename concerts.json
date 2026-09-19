@@ -1,40 +1,5 @@
 [
   {
-    "title": "Treaty Oak Revival: West Texas Degenerate Tour",
-    "date": "2026-09-18",
-    "time": "7:00 PM",
-    "place": "Jiffy Lube Live, Bristow",
-    "cat": "concerts"
-  },
-  {
-    "title": "Ashley Cooke: The Baby Blues Tour",
-    "date": "2026-09-18",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Hot In Herre: 2000s Dance Party",
-    "date": "2026-09-18",
-    "time": "10:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
-    "date": "2026-09-18",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "JUNGLE - World Tour 2026",
-    "date": "2026-09-18",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Broccoli City 2026 feat. Summer Walker, kwn, & Elmiene",
     "date": "2026-09-19",
     "time": "5:00 PM",
@@ -1671,6 +1636,13 @@
     "time": "8:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-30",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "Alan Walker",
