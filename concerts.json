@@ -1,19 +1,5 @@
 [
   {
-    "title": "Brandon Flowers",
-    "date": "2026-09-20",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Malcolm Todd: Do That Again Tour",
-    "date": "2026-09-20",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "The Milk Carton Kids",
     "date": "2026-09-21",
     "time": "7:00 PM",
@@ -1148,6 +1134,13 @@
     "cat": "sports"
   },
   {
+    "title": "Criminal Presents: An Evening with Phoebe Judge",
+    "date": "2026-11-23",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Stevie Wonder Songs in The Key of Life Performances 50th Anniversary",
     "date": "2026-11-23",
     "time": "8:00 PM",
@@ -1409,7 +1402,7 @@
   {
     "title": "Washington Capitals vs. Columbus Blue Jackets",
     "date": "2026-12-26",
-    "time": "7:00 PM",
+    "time": "8:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
@@ -1545,6 +1538,13 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Ninajirachi's I Love My Computer and It Loves Me Tour",
+    "date": "2027-01-16",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Washington Wizards vs. Indiana Pacers",
