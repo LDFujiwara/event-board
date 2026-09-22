@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Milk Carton Kids",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Dermot Kennedy: The Weight of the Woods Tour",
-    "date": "2026-09-21",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Tinlicker North America 2026",
     "date": "2026-09-22",
     "time": "7:00 PM",
@@ -1134,7 +1120,7 @@
     "cat": "sports"
   },
   {
-    "title": "Criminal Presents: An Evening with Phoebe Judge",
+    "title": "Criminal Presents: DON'T WORRY WITH PHOEBE JUDGE",
     "date": "2026-11-23",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
@@ -1153,6 +1139,13 @@
     "time": "8:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "NSO Presents...Dolly Parton's Threads: My Songs in Symphony",
+    "date": "2026-11-24",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "emmet swimming + Dillon Fence",
@@ -1180,6 +1173,13 @@
     "date": "2026-11-27",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "White Ford Bronco",
+    "date": "2026-11-28",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
   {
