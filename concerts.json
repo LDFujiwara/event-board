@@ -1,26 +1,5 @@
 [
   {
-    "title": "Tinlicker North America 2026",
-    "date": "2026-09-22",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "aespa LIVE TOUR - SYNK : COMPLæXITY - in WASHINGTON",
-    "date": "2026-09-22",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Role Model Presents: Chuck On Tour",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Jane Remover - Live Exhibit",
     "date": "2026-09-23",
     "time": "7:00 PM",
@@ -1620,6 +1599,13 @@
     "title": "Monster Jam",
     "date": "2027-01-30",
     "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-31",
+    "time": "1:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
