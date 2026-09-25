@@ -1,26 +1,5 @@
 [
   {
-    "title": "Circle Jerks",
-    "date": "2026-09-24",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Mystics vs. Chicago Sky",
-    "date": "2026-09-24",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Mystics vs. Chicago Sky: Capital One Arena VIP Seating",
-    "date": "2026-09-24",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Earlybirds Club",
     "date": "2026-09-25",
     "time": "6:00 PM",
@@ -322,7 +301,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Wizards vs. Pistons (Preseason Game)",
+    "title": "Wizards v Pistons (Preseason Game)",
     "date": "2026-10-10",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -357,7 +336,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Wizards vs. Nets (Preseason Game)",
+    "title": "Wizards v Nets (Preseason Game)",
     "date": "2026-10-12",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1302,6 +1281,20 @@
     "cat": "concerts"
   },
   {
+    "title": "Capital One Artist Session with Jonas Brothers",
+    "date": "2026-12-14",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Hot 99.5's Jingle Ball Presented By Capital One",
+    "date": "2026-12-14",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Matt Rogers: THIS TIME IT'S *REALLY* CHRISTMAS Tour",
     "date": "2026-12-16",
     "time": "7:00 PM",
@@ -1626,6 +1619,13 @@
   {
     "title": "Rhiannon Giddens",
     "date": "2027-02-28",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "NEEDTOBREATHE: The Long Surrender Tour",
+    "date": "2027-03-06",
     "time": "7:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
