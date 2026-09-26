@@ -1,33 +1,5 @@
 [
   {
-    "title": "Earlybirds Club",
-    "date": "2026-09-25",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Haute & Freddy's Big Disgrace Tour",
-    "date": "2026-09-25",
-    "time": "11:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Washington Capitals vs. Boston Bruins (Preseason)",
-    "date": "2026-09-25",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Mastodon",
-    "date": "2026-09-25",
-    "time": "7:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Don't Stop Believing: An 80s Prom Experience",
     "date": "2026-09-26",
     "time": "6:00 PM",
@@ -1281,13 +1253,6 @@
     "cat": "concerts"
   },
   {
-    "title": "Capital One Artist Session with Jonas Brothers",
-    "date": "2026-12-14",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Hot 99.5's Jingle Ball Presented By Capital One",
     "date": "2026-12-14",
     "time": "7:30 PM",
@@ -1592,6 +1557,20 @@
     "title": "Monster Jam",
     "date": "2027-01-31",
     "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals vs. Winnipeg Jets",
+    "date": "2027-02-02",
+    "time": "6:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v DePaul",
+    "date": "2027-02-03",
+    "time": "",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
