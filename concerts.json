@@ -1,26 +1,5 @@
 [
   {
-    "title": "Don't Stop Believing: An 80s Prom Experience",
-    "date": "2026-09-26",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "josh conway: the plum tour",
-    "date": "2026-09-26",
-    "time": "10:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Gorillaz - The Mountain Tour",
-    "date": "2026-09-26",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "honestav - The Sweet American Boy Tour ",
     "date": "2026-09-27",
     "time": "7:00 PM",
@@ -1057,6 +1036,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Tiny Habits - The Keepers Tour",
+    "date": "2026-11-24",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Washington Wizards vs. Boston Celtics",
     "date": "2026-11-24",
     "time": "8:00 PM",
@@ -1571,6 +1557,13 @@
     "title": "Georgetown Hoyas Men's Basketball v DePaul",
     "date": "2027-02-03",
     "time": "",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Wizards vs. New Orleans Pelicans",
+    "date": "2027-02-04",
+    "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
