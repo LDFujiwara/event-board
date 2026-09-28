@@ -1,12 +1,5 @@
 [
   {
-    "title": "honestav - The Sweet American Boy Tour ",
-    "date": "2026-09-27",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Julia Wolf",
     "date": "2026-09-28",
     "time": "7:00 PM",
@@ -434,7 +427,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Milwaukee Bucks",
+    "title": "Wizards v Bucks",
     "date": "2026-10-21",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -476,7 +469,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Toronto Raptors",
+    "title": "Wizards v Raptors",
     "date": "2026-10-23",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -602,7 +595,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Charlotte Hornets",
+    "title": "Wizards v Hornets",
     "date": "2026-10-30",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -700,7 +693,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Atlanta Hawks",
+    "title": "Wizards v Hawks",
     "date": "2026-11-04",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -798,7 +791,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Detroit Pistons",
+    "title": "Wizards v Pistons",
     "date": "2026-11-12",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -861,7 +854,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Houston Rockets",
+    "title": "Wizards v Rockets",
     "date": "2026-11-15",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -875,7 +868,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Memphis Grizzlies",
+    "title": "Wizards v Grizzlies",
     "date": "2026-11-16",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1015,7 +1008,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Orlando Magic",
+    "title": "Wizards v Magic",
     "date": "2026-11-22",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1043,7 +1036,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Boston Celtics",
+    "title": "Wizards v Celtics",
     "date": "2026-11-24",
     "time": "8:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1092,7 +1085,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Orlando Magic",
+    "title": "Wizards v Magic",
     "date": "2026-11-28",
     "time": "5:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1218,7 +1211,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Charlotte Hornets",
+    "title": "Wizards v Hornets",
     "date": "2026-12-12",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1267,7 +1260,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. New York Knicks",
+    "title": "Wizards v Knicks",
     "date": "2026-12-18",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1295,21 +1288,21 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Toronto Raptors",
+    "title": "Wizards v Raptors",
     "date": "2026-12-22",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Cleveland Cavaliers",
+    "title": "Wizards v Cavaliers",
     "date": "2026-12-23",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Portland Trail Blazers",
+    "title": "Wizards v Trail Blazers",
     "date": "2026-12-26",
     "time": "1:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1358,7 +1351,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. San Antonio Spurs",
+    "title": "Wizards v Spurs",
     "date": "2027-01-01",
     "time": "5:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1372,7 +1365,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. LA Clippers",
+    "title": "Wizards v Clippers",
     "date": "2027-01-03",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1393,21 +1386,21 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Los Angeles Lakers",
+    "title": "Wizards v Lakers",
     "date": "2027-01-05",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Oklahoma City Thunder",
+    "title": "Wizards v Thunder",
     "date": "2027-01-07",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Minnesota Timberwolves",
+    "title": "Wizards v Timberwolves",
     "date": "2027-01-08",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1428,7 +1421,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Atlanta Hawks",
+    "title": "Wizards v Hawks",
     "date": "2027-01-11",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1463,14 +1456,14 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Wizards vs. Indiana Pacers",
+    "title": "Wizards v Pacers",
     "date": "2027-01-17",
     "time": "1:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Boston Celtics",
+    "title": "Wizards v Celtics",
     "date": "2027-01-18",
     "time": "3:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1512,7 +1505,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. Sacramento Kings",
+    "title": "Wizards v Kings",
     "date": "2027-01-28",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1554,6 +1547,13 @@
     "cat": "sports"
   },
   {
+    "title": "La Roux - The Old Flames Tour",
+    "date": "2027-02-03",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Georgetown Hoyas Men's Basketball v DePaul",
     "date": "2027-02-03",
     "time": "",
@@ -1561,7 +1561,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Wizards vs. New Orleans Pelicans",
+    "title": "Wizards v Pelicans",
     "date": "2027-02-04",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1612,6 +1612,13 @@
   {
     "title": "Blondshell - Scaring Strangers Tour",
     "date": "2027-03-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Jack Kays - Jack Kays And His Band",
+    "date": "2027-03-21",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
