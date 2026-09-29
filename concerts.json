@@ -1,26 +1,5 @@
 [
   {
-    "title": "Julia Wolf",
-    "date": "2026-09-28",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Charli xcx - Music, Fashion, Film Tour",
-    "date": "2026-09-28",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Ringo Starr and His All Starr Band",
-    "date": "2026-09-28",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
     "date": "2026-09-29",
     "time": "7:30 PM",
@@ -128,7 +107,7 @@
   {
     "title": "Knocked Loose & Denzel Curry",
     "date": "2026-10-03",
-    "time": "7:00 PM",
+    "time": "6:30 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
@@ -1568,6 +1547,13 @@
     "cat": "sports"
   },
   {
+    "title": "The Love of Soul Tour",
+    "date": "2027-02-05",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Alan Walker",
     "date": "2027-02-06",
     "time": "8:00 PM",
@@ -1584,6 +1570,20 @@
   {
     "title": "Bad Suns - Disappear Here: A Ten Year Celebration",
     "date": "2027-02-10",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Cory Wong featuring dodie with special guest PREP",
+    "date": "2027-02-25",
+    "time": "6:30 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+    "date": "2027-02-28",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
@@ -1619,6 +1619,13 @@
   {
     "title": "Jack Kays - Jack Kays And His Band",
     "date": "2027-03-21",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Wasia Project - Nocturne Live 2027",
+    "date": "2027-03-22",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
