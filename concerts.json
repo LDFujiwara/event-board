@@ -1,26 +1,5 @@
 [
   {
-    "title": "Lucinda Williams And Her Band",
-    "date": "2026-09-30",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Shaboozey - Outlaws Never Die Tour",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Public Image Ltd - This Is Not The Last Tour",
     "date": "2026-10-01",
     "time": "7:00 PM",
@@ -399,7 +378,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Wizards v Bucks",
+    "title": "Wizards v Bucks (Home Opener Rally Towel - First 15K Fans)",
     "date": "2026-10-21",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -882,7 +861,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Wizards v Grizzlies",
+    "title": "Wizards v Grizzlies (\"Ice\" Trae Young Bobblehead - First 10K Fans)",
     "date": "2026-11-16",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1253,7 +1232,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Wizards v Hornets",
+    "title": "Wizards v Hornets (Tre Johnson III Designed Beanie - First 10K Fans)",
     "date": "2026-12-12",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1512,6 +1491,13 @@
     "cat": "sports"
   },
   {
+    "title": "Wizards v Timberwolves",
+    "date": "2027-01-08",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "The Taylor Party: Taylor Swift Night",
     "date": "2027-01-09",
     "time": "8:00 PM",
@@ -1547,10 +1533,24 @@
     "cat": "concerts"
   },
   {
+    "title": "Chelsea Cutler - IS THIS THE END? Tour",
+    "date": "2027-02-06",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Alan Walker",
     "date": "2027-02-06",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Chelsea Cutler - IS THIS THE END? Tour",
+    "date": "2027-02-07",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1619,7 +1619,7 @@
   {
     "title": "Jack Kays - Jack Kays And His Band",
     "date": "2027-03-21",
-    "time": "7:00 PM",
+    "time": "6:30 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1649,6 +1649,13 @@
     "date": "2027-04-09",
     "time": "6:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Carly Rae Jepsen: Day and Night Tour",
+    "date": "2027-05-14",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
