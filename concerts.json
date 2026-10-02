@@ -1,12 +1,5 @@
 [
   {
-    "title": "Public Image Ltd - This Is Not The Last Tour",
-    "date": "2026-10-01",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Chris Stapleton's All-American Road Show",
     "date": "2026-10-02",
     "time": "7:30 PM",
@@ -1036,6 +1029,13 @@
     "cat": "concerts"
   },
   {
+    "title": "United Globe Concert Access-Stevie Wonder (EVENT TICKET NOT INCLUDED)",
+    "date": "2026-11-23",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Tiny Habits - The Keepers Tour",
     "date": "2026-11-24",
     "time": "7:00 PM",
@@ -1323,6 +1323,13 @@
     "cat": "sports"
   },
   {
+    "title": "Thievery Corporation",
+    "date": "2026-12-20",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Wizards v Raptors",
     "date": "2026-12-22",
     "time": "7:00 PM",
@@ -1491,13 +1498,6 @@
     "cat": "sports"
   },
   {
-    "title": "Wizards v Timberwolves",
-    "date": "2027-01-08",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "The Taylor Party: Taylor Swift Night",
     "date": "2027-01-09",
     "time": "8:00 PM",
@@ -1535,7 +1535,7 @@
   {
     "title": "Chelsea Cutler - IS THIS THE END? Tour",
     "date": "2027-02-06",
-    "time": "8:00 PM",
+    "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1586,6 +1586,13 @@
     "date": "2027-02-28",
     "time": "7:00 PM",
     "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+    "date": "2027-03-01",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
   {
