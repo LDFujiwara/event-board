@@ -1,54 +1,5 @@
 [
   {
-    "title": "THE CALIFORNIA HONEYDROPS - SWEET LIKE THAT TOUR 2026",
-    "date": "2026-10-03",
-    "time": "8:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Medium Build Presents The King of Having Fun on Tour",
-    "date": "2026-10-04",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "United Globe Concert Access-Olivia Rodrigo (EVENT TICKET NOT INCLUDED)",
-    "date": "2026-10-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Olivia Rodrigo: The Unraveled Tour",
-    "date": "2026-10-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Indigo Girls",
-    "date": "2026-10-04",
-    "time": "7:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Sylvan Esso",
-    "date": "2026-10-05",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN WASHINGTON",
-    "date": "2026-10-05",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Sylvan Esso",
     "date": "2026-10-06",
     "time": "7:00 PM",
@@ -247,7 +198,7 @@
   {
     "title": "An evening with Andrew McMahon and his piano ",
     "date": "2026-10-17",
-    "time": "6:00 PM",
+    "time": "5:30 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -619,6 +570,13 @@
     "title": "Hamilton Leithauser + Rostam: The Joint Tour",
     "date": "2026-11-05",
     "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Gimme Gimme Disco",
+    "date": "2026-11-06",
+    "time": "9:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1470,6 +1428,41 @@
     "cat": "sports"
   },
   {
+    "title": "Wizards v Hawks",
+    "date": "2027-01-11",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards VIP Packages: 1/11/2027",
+    "date": "2027-01-11",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Jess Williamson",
+    "date": "2027-01-12",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Washington Capitals vs. Vegas Golden Knights",
+    "date": "2027-01-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "State Radio",
+    "date": "2027-01-15",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Ninajirachi's I Love My Computer and It Loves Me Tour",
     "date": "2027-01-16",
     "time": "8:00 PM",
@@ -1533,6 +1526,20 @@
     "cat": "concerts"
   },
   {
+    "title": "FLO - Therapy At The Club Tour",
+    "date": "2027-02-17",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Vacations - Pursuit Of Anything Tour",
+    "date": "2027-02-23",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Cory Wong featuring dodie with special guest PREP",
     "date": "2027-02-25",
     "time": "6:30 PM",
@@ -1558,6 +1565,13 @@
     "date": "2027-03-01",
     "time": "6:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Bianca Del Rio: It Gets Bitter - World Comedy Tour",
+    "date": "2027-03-05",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1621,6 +1635,13 @@
     "date": "2027-04-09",
     "time": "6:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "LOLA YOUNG - Everything Begins",
+    "date": "2027-04-09",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
