@@ -1,19 +1,5 @@
 [
   {
-    "title": "BERTHA: Grateful Drag",
-    "date": "2026-10-08",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Cash Money & No Limit Tour",
-    "date": "2026-10-08",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Bright Eyes",
     "date": "2026-10-09",
     "time": "6:30 PM",
@@ -1442,6 +1428,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Washington Capitals vs. Colorado Avalanche",
+    "date": "2027-01-16",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Ninajirachi's I Love My Computer and It Loves Me Tour",
     "date": "2027-01-16",
     "time": "8:00 PM",
@@ -1516,6 +1509,13 @@
     "date": "2027-02-23",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Remi Wolf: The Mud Tour",
+    "date": "2027-02-23",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
