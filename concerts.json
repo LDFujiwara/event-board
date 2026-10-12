@@ -1,19 +1,5 @@
 [
   {
-    "title": "Washington Capitals vs. Seattle Kraken",
-    "date": "2026-10-11",
-    "time": "5:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
-    "date": "2026-10-11",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Knox",
     "date": "2026-10-12",
     "time": "7:00 PM",
@@ -1099,6 +1085,13 @@
     "cat": "sports"
   },
   {
+    "title": "Ripe",
+    "date": "2026-12-18",
+    "time": "8:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Wizards v Knicks",
     "date": "2026-12-18",
     "time": "7:00 PM",
@@ -1216,6 +1209,13 @@
     "time": "8:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "White Ford Bronco",
+    "date": "2026-12-31",
+    "time": "9:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "New Year's Eve with DJ Trixie Mattel",
@@ -1408,6 +1408,13 @@
   },
   {
     "title": "Wizards v Celtics",
+    "date": "2027-01-18",
+    "time": "3:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards VIP Packages: 1/18/2027",
     "date": "2027-01-18",
     "time": "3:00 PM",
     "place": "Capital One Arena, Washington DC",
