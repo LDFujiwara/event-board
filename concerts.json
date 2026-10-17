@@ -1,26 +1,5 @@
 [
   {
-    "title": "LAUNDRY DAY Presents: The Larger Than LIFE Tour",
-    "date": "2026-10-16",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Rod Wave: Don't Look Down Tour",
-    "date": "2026-10-16",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "SOFI TUKKER Presents: ANIMAL TALK",
-    "date": "2026-10-16",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "An evening with Andrew McMahon and his piano ",
     "date": "2026-10-17",
     "time": "5:30 PM",
@@ -1415,6 +1394,13 @@
   },
   {
     "title": "Wizards v Kings",
+    "date": "2027-01-28",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards VIP Packages: 1/28/2027",
     "date": "2027-01-28",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
