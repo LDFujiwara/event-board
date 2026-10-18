@@ -1,26 +1,5 @@
 [
   {
-    "title": "An evening with Andrew McMahon and his piano ",
-    "date": "2026-10-17",
-    "time": "5:30 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "THE RESIDENTS - ESKIMO LIVE",
-    "date": "2026-10-17",
-    "time": "10:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Washington Capitals vs. New Jersey Devils",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Quadeca",
     "date": "2026-10-18",
     "time": "7:00 PM",
@@ -1419,6 +1398,13 @@
     "time": "8:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-30",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "La Roux - The Old Flames Tour",
