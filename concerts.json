@@ -72,7 +72,7 @@
   {
     "title": "RØZ Presents: SE ESTÁ HACIENDO TARDE",
     "date": "2026-10-23",
-    "time": "10:00 PM",
+    "time": "9:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -385,7 +385,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Capital Showcase: Virginia vs. Arkansas Men's Basketball",
+    "title": "Skyscanner Capital Showcase presented by Events DC",
     "date": "2026-11-08",
     "time": "1:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -913,6 +913,13 @@
     "title": "Matisyahu - Festival of Lights",
     "date": "2026-12-10",
     "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Hot In Herre: 2000s Dance Party",
+    "date": "2026-12-12",
+    "time": "9:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1540,6 +1547,20 @@
     "cat": "concerts"
   },
   {
+    "title": "Lambrini Girls - No Refunds Tour",
+    "date": "2027-03-25",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Caroline Rose - Uncle Carol's World of Fun Tour",
+    "date": "2027-03-27",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Beirut",
     "date": "2027-04-06",
     "time": "7:00 PM",
@@ -1603,6 +1624,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Hum",
+    "date": "2027-05-27",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "FKJ - TYBER TOUR",
     "date": "2027-06-07",
     "time": "7:30 PM",
@@ -1614,6 +1642,13 @@
     "date": "2027-06-24",
     "time": "6:30 PM",
     "place": "Jiffy Lube Live, Bristow",
+    "cat": "concerts"
+  },
+  {
+    "title": "Sienna Spiro: My House Tour (Extended)",
+    "date": "2027-08-12",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
