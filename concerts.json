@@ -1,31 +1,10 @@
 [
   {
-    "title": "THE DAMNED - FINAL DAMNATION 50",
-    "date": "2026-10-21",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Wizards v Bucks (Home Opener Rally Towel - First 15K Fans)",
     "date": "2026-10-21",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
-  },
-  {
-    "title": "Wizards VIP Packages: 10/21/2026",
-    "date": "2026-10-21",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Jesse Welles - Red Tour 2026",
-    "date": "2026-10-21",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
   },
   {
     "title": "LØLØ - God Forbid a Girl Goes on Tour",
@@ -1393,6 +1372,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Washington Capitals vs. Winnipeg Jets",
+    "date": "2027-02-02",
+    "time": "6:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "La Roux - The Old Flames Tour",
     "date": "2027-02-03",
     "time": "7:00 PM",
@@ -1438,6 +1424,13 @@
     "title": "FLO - Therapy At The Club Tour",
     "date": "2027-02-17",
     "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "2hollis",
+    "date": "2027-02-18",
+    "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
@@ -1526,6 +1519,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Ashe: The Girl of Your Dreams Tour",
+    "date": "2027-03-19",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Jack Kays - Jack Kays And His Band",
     "date": "2027-03-21",
     "time": "6:30 PM",
@@ -1551,6 +1551,13 @@
     "date": "2027-03-23",
     "time": "6:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Interpol",
+    "date": "2027-03-24",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
