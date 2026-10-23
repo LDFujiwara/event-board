@@ -1,26 +1,5 @@
 [
   {
-    "title": "Wizards v Bucks (Home Opener Rally Towel - First 15K Fans)",
-    "date": "2026-10-21",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "LØLØ - God Forbid a Girl Goes on Tour",
-    "date": "2026-10-22",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "KATSEYE: THE WILDWORLD TOUR",
-    "date": "2026-10-22",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Five Finger Death Punch",
     "date": "2026-10-23",
     "time": "6:45 PM",
@@ -1386,6 +1365,20 @@
     "cat": "concerts"
   },
   {
+    "title": "Georgetown Hoyas Men's Basketball v DePaul",
+    "date": "2027-02-03",
+    "time": "8:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards v Pelicans",
+    "date": "2027-02-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Chelsea Cutler - IS THIS THE END? Tour",
     "date": "2027-02-06",
     "time": "7:00 PM",
@@ -1428,7 +1421,7 @@
     "cat": "concerts"
   },
   {
-    "title": "2hollis",
+    "title": "2hollis: The Pirouette Tour",
     "date": "2027-02-18",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
@@ -1493,6 +1486,13 @@
   {
     "title": "NEEDTOBREATHE: The Long Surrender Tour",
     "date": "2027-03-06",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Lake Street Dive",
+    "date": "2027-03-07",
     "time": "7:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
