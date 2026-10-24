@@ -1,40 +1,5 @@
 [
   {
-    "title": "Five Finger Death Punch",
-    "date": "2026-10-23",
-    "time": "6:45 PM",
-    "place": "Jiffy Lube Live, Bristow",
-    "cat": "concerts"
-  },
-  {
-    "title": "RØZ Presents: SE ESTÁ HACIENDO TARDE",
-    "date": "2026-10-23",
-    "time": "9:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Wizards v Raptors",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards VIP Packages: 10/23/2026",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Jerry Seinfeld",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Breaking Benjamin",
     "date": "2026-10-24",
     "time": "6:00 PM",
@@ -1377,6 +1342,20 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Wizards VIP Packages: 2/4/2027",
+    "date": "2027-02-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "The Love of Soul Tour",
+    "date": "2027-02-05",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Chelsea Cutler - IS THIS THE END? Tour",
