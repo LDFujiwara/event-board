@@ -1,40 +1,5 @@
 [
   {
-    "title": "Breaking Benjamin",
-    "date": "2026-10-24",
-    "time": "6:00 PM",
-    "place": "Jiffy Lube Live, Bristow",
-    "cat": "concerts"
-  },
-  {
-    "title": "Paris Paloma: The Fatal Flaw Tour",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Washington Capitals vs. Buffalo Sabres",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Jerry Seinfeld",
-    "date": "2026-10-24",
-    "time": "5:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Jerry Seinfeld",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Paris Paloma: The Fatal Flaw Tour",
     "date": "2026-10-25",
     "time": "7:00 PM",
@@ -84,7 +49,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Philadelphia Flyers",
+    "title": "Capitals vs Flyers (Hockey Halloween - Iced Coffee Cup Giveaway)",
     "date": "2026-10-28",
     "time": "7:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -168,7 +133,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Minnesota Wild",
+    "title": "Capitals vs Wild (Youth Hockey Day)",
     "date": "2026-11-01",
     "time": "3:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -203,7 +168,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Dallas Stars",
+    "title": "Capitals vs Stars (First Responders Night)",
     "date": "2026-11-03",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -266,7 +231,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Florida Panthers",
+    "title": "Capitals vs Panthers (Rally Towel Giveaway)",
     "date": "2026-11-07",
     "time": "12:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -378,7 +343,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. New Jersey Devils",
+    "title": "Capitals vs Devils (Veterans Day)",
     "date": "2026-11-14",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -497,7 +462,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Buffalo Sabres",
+    "title": "Capitals vs Sabres (Hockey Fights Cancer - Rally Towel Giveaway)",
     "date": "2026-11-19",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -637,7 +602,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Philadelphia Flyers",
+    "title": "Capitals vs Flyers (CapsGiving - Hockey Rink Butter Dish Giveaway)",
     "date": "2026-11-25",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -651,7 +616,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Florida Panthers",
+    "title": "Capitals vs Panthers",
     "date": "2026-11-27",
     "time": "3:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -686,7 +651,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Vancouver Canucks",
+    "title": "Capitals vs Canucks (Beanie Giveaway)",
     "date": "2026-12-01",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -875,7 +840,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Detroit Red Wings",
+    "title": "Capitals vs Red Wings (Caps Holiday Party)",
     "date": "2026-12-17",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -917,7 +882,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. St Louis Blues",
+    "title": "Capitals vs Blues (Caps Holiday Party)",
     "date": "2026-12-19",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -980,7 +945,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Columbus Blue Jackets",
+    "title": "Capitals vs Blue Jackets",
     "date": "2026-12-26",
     "time": "8:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1001,7 +966,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Edmonton Oilers",
+    "title": "Capitals vs Oilers",
     "date": "2026-12-28",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1043,7 +1008,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Ottawa Senators",
+    "title": "Capitals vs Senators (Women in Sports Night)",
     "date": "2027-01-02",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1071,7 +1036,7 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Toronto Maple Leafs",
+    "title": "Capitals vs Maple Leafs",
     "date": "2027-01-04",
     "time": "7:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1162,14 +1127,14 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Vegas Golden Knights",
+    "title": "Capitals vs Golden Knights (Ovechkin Bobblehead Giveaway)",
     "date": "2027-01-12",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Carolina Hurricanes",
+    "title": "Capitals vs Hurricanes (Country Music Night)",
     "date": "2027-01-14",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1183,7 +1148,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Colorado Avalanche",
+    "title": "Capitals vs Avalanche (Fan Designed Rally Towel Giveaway)",
     "date": "2027-01-16",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1225,14 +1190,14 @@
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. Montreal Canadiens",
+    "title": "Capitals vs Canadiens (Pride)",
     "date": "2027-01-19",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
   {
-    "title": "Washington Capitals vs. New York Islanders",
+    "title": "Capitals vs Islanders (Margaritaville)",
     "date": "2027-01-22",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1316,7 +1281,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Washington Capitals vs. Winnipeg Jets",
+    "title": "Capitals vs Jets (Alex Tuch Designed Hat Giveaway)",
     "date": "2027-02-02",
     "time": "6:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1376,6 +1341,13 @@
     "date": "2027-02-07",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Dancing with the Stars: Live! - 2027 Tour",
+    "date": "2027-02-07",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
     "cat": "concerts"
   },
   {
