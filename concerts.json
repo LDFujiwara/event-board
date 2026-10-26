@@ -1,26 +1,5 @@
 [
   {
-    "title": "Paris Paloma: The Fatal Flaw Tour",
-    "date": "2026-10-25",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "RUSH: Fifty Something",
-    "date": "2026-10-25",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Beck - RIDE LONESOME TOUR",
-    "date": "2026-10-25",
-    "time": "7:30 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "HEY, NOTHING - THE HOUND TOUR",
     "date": "2026-10-26",
     "time": "7:00 PM",
@@ -50,6 +29,13 @@
   },
   {
     "title": "Capitals vs Flyers (Hockey Halloween - Iced Coffee Cup Giveaway)",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 10/28/26",
     "date": "2026-10-28",
     "time": "7:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -140,6 +126,13 @@
     "cat": "sports"
   },
   {
+    "title": "Washington Capitals VIP Tickets: 11/01/26",
+    "date": "2026-11-01",
+    "time": "3:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Undertale - The Determination Symphony World Tour",
     "date": "2026-11-01",
     "time": "3:00 PM",
@@ -169,6 +162,13 @@
   },
   {
     "title": "Capitals vs Stars (First Responders Night)",
+    "date": "2026-11-03",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 11/03/26",
     "date": "2026-11-03",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -232,6 +232,13 @@
   },
   {
     "title": "Capitals vs Panthers (Rally Towel Giveaway)",
+    "date": "2026-11-07",
+    "time": "12:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 11/07/26",
     "date": "2026-11-07",
     "time": "12:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -344,6 +351,13 @@
   },
   {
     "title": "Capitals vs Devils (Veterans Day)",
+    "date": "2026-11-14",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 11/14/26",
     "date": "2026-11-14",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -463,6 +477,13 @@
   },
   {
     "title": "Capitals vs Sabres (Hockey Fights Cancer - Rally Towel Giveaway)",
+    "date": "2026-11-19",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 11/19/26",
     "date": "2026-11-19",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -609,6 +630,13 @@
     "cat": "sports"
   },
   {
+    "title": "Washington Capitals VIP Tickets: 11/25/26",
+    "date": "2026-11-25",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Emo Night Brooklyn",
     "date": "2026-11-27",
     "time": "9:00 PM",
@@ -652,6 +680,13 @@
   },
   {
     "title": "Capitals vs Canucks (Beanie Giveaway)",
+    "date": "2026-12-01",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 12/01/26",
     "date": "2026-12-01",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -819,6 +854,13 @@
     "cat": "concerts"
   },
   {
+    "title": "The National Symphony Orchestra Presents The Muppet Christmas Carol",
+    "date": "2026-12-13",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Hot 99.5's Jingle Ball Presented By Capital One",
     "date": "2026-12-14",
     "time": "7:30 PM",
@@ -841,6 +883,13 @@
   },
   {
     "title": "Capitals vs Red Wings (Caps Holiday Party)",
+    "date": "2026-12-17",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 12/17/26",
     "date": "2026-12-17",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -973,6 +1022,13 @@
     "cat": "sports"
   },
   {
+    "title": "Washington Capitals VIP Tickets: 12/28/26",
+    "date": "2026-12-28",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Georgetown Hoyas Men's Basketball v Xavier",
     "date": "2026-12-30",
     "time": "8:00 PM",
@@ -1015,6 +1071,13 @@
     "cat": "sports"
   },
   {
+    "title": "Washington Capitals VIP Tickets: 01/02/27",
+    "date": "2027-01-02",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Georgetown Hoyas Men's Basketball v Villanova",
     "date": "2027-01-03",
     "time": "12:00 PM",
@@ -1037,6 +1100,13 @@
   },
   {
     "title": "Capitals vs Maple Leafs",
+    "date": "2027-01-04",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 01/04/27",
     "date": "2027-01-04",
     "time": "7:30 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1134,7 +1204,21 @@
     "cat": "sports"
   },
   {
+    "title": "Washington Capitals VIP Tickets: 01/12/27",
+    "date": "2027-01-12",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Capitals vs Hurricanes (Country Music Night)",
+    "date": "2027-01-14",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 01/14/27",
     "date": "2027-01-14",
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
@@ -1197,16 +1281,9 @@
     "cat": "sports"
   },
   {
-    "title": "Capitals vs Islanders (Margaritaville)",
-    "date": "2027-01-22",
+    "title": "Washington Capitals VIP Tickets: 01/19/27",
+    "date": "2027-01-19",
     "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Georgetown Hoyas Men's Basketball v Providence",
-    "date": "2027-01-23",
-    "time": "6:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
@@ -1216,27 +1293,6 @@
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
-  },
-  {
-    "title": "Georgetown Hoyas Men's Basketball v Connecticut",
-    "date": "2027-01-26",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards v Kings",
-    "date": "2027-01-28",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards VIP Packages: 1/28/2027",
-    "date": "2027-01-28",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
   },
   {
     "title": "Giggly Squad: The Gehls Gehl Tour",
@@ -1253,27 +1309,6 @@
     "cat": "concerts"
   },
   {
-    "title": "Monster Jam",
-    "date": "2027-01-30",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Monster Jam",
-    "date": "2027-01-30",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Monster Jam",
-    "date": "2027-01-31",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Klangkarussell Live: Americas 2027 Tour",
     "date": "2027-02-01",
     "time": "7:00 PM",
@@ -1281,45 +1316,10 @@
     "cat": "concerts"
   },
   {
-    "title": "Capitals vs Jets (Alex Tuch Designed Hat Giveaway)",
-    "date": "2027-02-02",
-    "time": "6:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "La Roux - The Old Flames Tour",
     "date": "2027-02-03",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Georgetown Hoyas Men's Basketball v DePaul",
-    "date": "2027-02-03",
-    "time": "8:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards v Pelicans",
-    "date": "2027-02-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards VIP Packages: 2/4/2027",
-    "date": "2027-02-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "The Love of Soul Tour",
-    "date": "2027-02-05",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1344,13 +1344,6 @@
     "cat": "concerts"
   },
   {
-    "title": "Dancing with the Stars: Live! - 2027 Tour",
-    "date": "2027-02-07",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Ibeyi",
     "date": "2027-02-08",
     "time": "7:00 PM",
@@ -1361,6 +1354,13 @@
     "title": "Bad Suns - Disappear Here: A Ten Year Celebration",
     "date": "2027-02-10",
     "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Dogpark",
+    "date": "2027-02-12",
+    "time": "10:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1526,6 +1526,20 @@
     "cat": "concerts"
   },
   {
+    "title": "Haken - In A Fever Dream Tour",
+    "date": "2027-03-28",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Destroy Boys",
+    "date": "2027-03-31",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Beirut",
     "date": "2027-04-06",
     "time": "7:00 PM",
@@ -1577,6 +1591,13 @@
   {
     "title": "Angine de Poitrine",
     "date": "2027-05-02",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "BUNT.",
+    "date": "2027-05-13",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
