@@ -1,12 +1,5 @@
 [
   {
-    "title": "HEY, NOTHING - THE HOUND TOUR",
-    "date": "2026-10-26",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Patrick Droney",
     "date": "2026-10-27",
     "time": "7:00 PM",
@@ -1365,6 +1358,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Greensky Bluegrass with Clay Street Unit",
+    "date": "2027-02-13",
+    "time": "7:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "FLO - Therapy At The Club Tour",
     "date": "2027-02-17",
     "time": "7:30 PM",
@@ -1540,6 +1540,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Temper City - Self Aware Tour",
+    "date": "2027-04-03",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Beirut",
     "date": "2027-04-06",
     "time": "7:00 PM",
@@ -1614,6 +1621,13 @@
     "date": "2027-05-20",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Hum",
+    "date": "2027-05-21",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
   {
