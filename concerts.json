@@ -1,19 +1,5 @@
 [
   {
-    "title": "Patrick Droney",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "RUSH: Fifty Something",
-    "date": "2026-10-27",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Sueco",
     "date": "2026-10-28",
     "time": "7:00 PM",
@@ -1281,6 +1267,13 @@
     "cat": "sports"
   },
   {
+    "title": "Capitals vs Islanders (Margaritaville)",
+    "date": "2027-01-22",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Stella Lefty: Long Way Home Tour",
     "date": "2027-01-23",
     "time": "8:00 PM",
@@ -1353,6 +1346,20 @@
   {
     "title": "Dogpark",
     "date": "2027-02-12",
+    "time": "10:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Penelope Road",
+    "date": "2027-02-13",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "MERSIV - Nostalgia Tour",
+    "date": "2027-02-13",
     "time": "10:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
@@ -1442,7 +1449,7 @@
     "cat": "concerts"
   },
   {
-    "title": "Lake Street Dive",
+    "title": "Lake Street Dive - What About Flamingos? 2027 Tour",
     "date": "2027-03-07",
     "time": "7:00 PM",
     "place": "The Anthem, Washington DC",
