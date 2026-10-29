@@ -1,26 +1,5 @@
 [
   {
-    "title": "Sueco",
-    "date": "2026-10-28",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Capitals vs Flyers (Hockey Halloween - Iced Coffee Cup Giveaway)",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals VIP Tickets: 10/28/26",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "MICO - Running From A Feeling Tour",
     "date": "2026-10-29",
     "time": "7:00 PM",
@@ -1270,6 +1249,20 @@
     "title": "Capitals vs Islanders (Margaritaville)",
     "date": "2027-01-22",
     "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 01/22/27",
+    "date": "2027-01-22",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Providence",
+    "date": "2027-01-23",
+    "time": "6:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
