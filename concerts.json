@@ -1,12 +1,5 @@
 [
   {
-    "title": "MICO - Running From A Feeling Tour",
-    "date": "2026-10-29",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "Jukebox the Ghost: HalloQueen",
     "date": "2026-10-30",
     "time": "6:00 PM",
@@ -773,6 +766,13 @@
     "title": "Matisyahu - Festival of Lights",
     "date": "2026-12-10",
     "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "THE 30+ PARTY - Millennial Dance Night",
+    "date": "2026-12-11",
+    "time": "6:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
