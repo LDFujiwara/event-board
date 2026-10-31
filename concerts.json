@@ -1,40 +1,5 @@
 [
   {
-    "title": "Jukebox the Ghost: HalloQueen",
-    "date": "2026-10-30",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Bassvictim",
-    "date": "2026-10-30",
-    "time": "10:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Wizards v Hornets",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards VIP Packages: 10/30/2026",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Hudson Westbrook: Hits Me Tour",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
     "date": "2026-10-31",
     "time": "6:00 PM",
@@ -452,13 +417,6 @@
     "date": "2026-11-20",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Karan Aujla",
-    "date": "2026-11-20",
-    "time": "8:00 PM",
-    "place": "Capital One Arena, Washington DC",
     "cat": "concerts"
   },
   {
@@ -1272,6 +1230,27 @@
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Georgetown Hoyas Men's Basketball v Connecticut",
+    "date": "2027-01-26",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards v Kings",
+    "date": "2027-01-28",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards VIP Packages: 1/28/2027",
+    "date": "2027-01-28",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "Giggly Squad: The Gehls Gehl Tour",
