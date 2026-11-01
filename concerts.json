@@ -1,33 +1,5 @@
 [
   {
-    "title": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
-    "date": "2026-10-31",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Holywatr: Deo Gratias Tour",
-    "date": "2026-10-31",
-    "time": "11:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-    "date": "2026-10-31",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Yebba",
-    "date": "2026-10-31",
-    "time": "8:00 PM",
-    "place": "The Anthem, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "She Wants Revenge",
     "date": "2026-11-01",
     "time": "7:00 PM",
@@ -1265,6 +1237,13 @@
     "time": "8:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-30",
+    "time": "1:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "Klangkarussell Live: Americas 2027 Tour",
