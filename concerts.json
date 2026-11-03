@@ -1,19 +1,5 @@
 [
   {
-    "title": "Hovvdy",
-    "date": "2026-11-02",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Georgetown Hoyas Men's Basketball v Loyola (MD)",
-    "date": "2026-11-02",
-    "time": "6:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Capitals vs Stars (First Responders Night)",
     "date": "2026-11-03",
     "time": "7:00 PM",
@@ -1228,6 +1214,13 @@
     "title": "Monster Jam",
     "date": "2027-01-30",
     "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Monster Jam",
+    "date": "2027-01-31",
+    "time": "1:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
   },
