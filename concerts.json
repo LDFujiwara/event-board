@@ -1,19 +1,5 @@
 [
   {
-    "title": "Capitals vs Stars (First Responders Night)",
-    "date": "2026-11-03",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals VIP Tickets: 11/03/26",
-    "date": "2026-11-03",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "The Music of Hey Arnold! - Live!",
     "date": "2026-11-04",
     "time": "7:00 PM",
@@ -1230,6 +1216,20 @@
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
+  },
+  {
+    "title": "Capitals vs Jets (Alex Tuch Designed Hat Giveaway)",
+    "date": "2027-02-02",
+    "time": "6:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Washington Capitals VIP Tickets: 02/02/27",
+    "date": "2027-02-02",
+    "time": "6:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
   },
   {
     "title": "La Roux - The Old Flames Tour",
