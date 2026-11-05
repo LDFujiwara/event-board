@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Music of Hey Arnold! - Live!",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Wizards v Hawks",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Wizards VIP Packages: 11/4/2026",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Hamilton Leithauser + Rostam: The Joint Tour",
     "date": "2026-11-05",
     "time": "7:00 PM",
@@ -1239,6 +1218,20 @@
     "cat": "concerts"
   },
   {
+    "title": "Georgetown Hoyas Men's Basketball v DePaul",
+    "date": "2027-02-03",
+    "time": "8:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Wizards v Pelicans",
+    "date": "2027-02-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
     "title": "Chelsea Cutler - IS THIS THE END? Tour",
     "date": "2027-02-06",
     "time": "7:00 PM",
@@ -1563,6 +1556,13 @@
   {
     "title": "Carly Rae Jepsen: Day and Night Tour",
     "date": "2027-05-14",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Hermanos Gutiérrez",
+    "date": "2027-05-19",
     "time": "7:30 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
