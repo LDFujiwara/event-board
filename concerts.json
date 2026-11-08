@@ -1,40 +1,5 @@
 [
   {
-    "title": "Hiss Golden Messenger - I'm People Tour",
-    "date": "2026-11-07",
-    "time": "6:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Winyah",
-    "date": "2026-11-07",
-    "time": "10:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Capitals vs Panthers (Rally Towel Giveaway)",
-    "date": "2026-11-07",
-    "time": "12:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Washington Capitals VIP Tickets: 11/07/26",
-    "date": "2026-11-07",
-    "time": "12:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
-    "title": "Georgetown Hoyas Men's Basketball v Maryland",
-    "date": "2026-11-07",
-    "time": "7:30 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "The Mountain Grass Unit - Appalachian Smoke Tour",
     "date": "2026-11-08",
     "time": "7:00 PM",
@@ -1204,10 +1169,31 @@
     "cat": "sports"
   },
   {
+    "title": "Wizards VIP Packages: 2/4/2027",
+    "date": "2027-02-04",
+    "time": "7:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "sports"
+  },
+  {
+    "title": "Fantasia, Anthony Hamilton, & October London: The Love of Soul Tour",
+    "date": "2027-02-05",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Chelsea Cutler - IS THIS THE END? Tour",
     "date": "2027-02-06",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Karan Aujla",
+    "date": "2027-02-06",
+    "time": "8:00 PM",
+    "place": "Capital One Arena, Washington DC",
     "cat": "concerts"
   },
   {
