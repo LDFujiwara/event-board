@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Mountain Grass Unit - Appalachian Smoke Tour",
-    "date": "2026-11-08",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
-    "title": "Skyscanner Capital Showcase presented by Events DC",
-    "date": "2026-11-08",
-    "time": "1:00 PM",
-    "place": "Capital One Arena, Washington DC",
-    "cat": "sports"
-  },
-  {
     "title": "Slow Pulp",
     "date": "2026-11-09",
     "time": "7:00 PM",
@@ -556,6 +542,13 @@
     "title": "Matisyahu - Festival of Lights",
     "date": "2026-12-10",
     "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Dumb Nathan Fielder Rave",
+    "date": "2026-12-11",
+    "time": "9:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
@@ -1211,6 +1204,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Dancing with the Stars: Live! - 2027 Tour",
+    "date": "2027-02-07",
+    "time": "7:30 PM",
+    "place": "Capital One Arena, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Ibeyi",
     "date": "2027-02-08",
     "time": "7:00 PM",
@@ -1323,6 +1323,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Silversun Pickups - Tenterhooks Tour",
+    "date": "2027-03-06",
+    "time": "6:30 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "NEEDTOBREATHE: The Long Surrender Tour",
     "date": "2027-03-06",
     "time": "7:00 PM",
@@ -1367,6 +1374,13 @@
   {
     "title": "Ashe: The Girl of Your Dreams Tour",
     "date": "2027-03-19",
+    "time": "8:00 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Dashboard Confessional - Unplugged: 25th Anniversary Tour",
+    "date": "2027-03-20",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
@@ -1442,6 +1456,13 @@
     "cat": "concerts"
   },
   {
+    "title": "ROYAL BLOOD: North America 2027",
+    "date": "2027-04-04",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Beirut",
     "date": "2027-04-06",
     "time": "7:00 PM",
@@ -1451,6 +1472,13 @@
   {
     "title": "Beirut",
     "date": "2027-04-07",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Noah Rinker",
+    "date": "2027-04-08",
     "time": "7:00 PM",
     "place": "9:30 Club, Washington DC",
     "cat": "concerts"
