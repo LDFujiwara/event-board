@@ -1,12 +1,5 @@
 [
   {
-    "title": "Slow Pulp",
-    "date": "2026-11-09",
-    "time": "7:00 PM",
-    "place": "9:30 Club, Washington DC",
-    "cat": "concerts"
-  },
-  {
     "title": "SOMBR - You Are The Reason Tour",
     "date": "2026-11-10",
     "time": "7:00 PM",
@@ -380,7 +373,7 @@
   {
     "title": "Victoria Monét: Frequency Of Love Tour",
     "date": "2026-11-27",
-    "time": "8:00 PM",
+    "time": "9:00 PM",
     "place": "The Anthem, Washington DC",
     "cat": "concerts"
   },
@@ -1036,6 +1029,13 @@
     "cat": "sports"
   },
   {
+    "title": "Earlybirds Club - Girl Power Scream-Along",
+    "date": "2027-01-22",
+    "time": "6:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Capitals vs Islanders (Margaritaville)",
     "date": "2027-01-22",
     "time": "7:00 PM",
@@ -1111,6 +1111,13 @@
     "time": "7:00 PM",
     "place": "Capital One Arena, Washington DC",
     "cat": "sports"
+  },
+  {
+    "title": "Grace Potter & The Trespassers",
+    "date": "2027-01-30",
+    "time": "7:30 PM",
+    "place": "The Anthem, Washington DC",
+    "cat": "concerts"
   },
   {
     "title": "Monster Jam",
@@ -1505,6 +1512,13 @@
     "cat": "concerts"
   },
   {
+    "title": "Beach Bunny: Out of Office Tour",
+    "date": "2027-04-13",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
+    "cat": "concerts"
+  },
+  {
     "title": "Tove Lo - ESTRUS TOUR ",
     "date": "2027-04-24",
     "time": "8:00 PM",
@@ -1530,6 +1544,13 @@
     "date": "2027-05-02",
     "time": "8:00 PM",
     "place": "The Anthem, Washington DC",
+    "cat": "concerts"
+  },
+  {
+    "title": "Trampled By Turtles",
+    "date": "2027-05-07",
+    "time": "7:00 PM",
+    "place": "9:30 Club, Washington DC",
     "cat": "concerts"
   },
   {
